@@ -2,6 +2,8 @@
 
 ## Hi there!
 
+This project saves some users into DB on startup.  It allows us to encrypt the username via Get call and decrypt via Post call. 
+
 ### Some information:
 - The project runs through SpringBoot. 
 - It uses PostgresSQL.
